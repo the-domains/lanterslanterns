@@ -1,19 +1,4 @@
-name: LantersLanterns
-favicon: null
-layout_spectrum: 0.5257434493396431
 typography_spectrum: 0.3925392075907439
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#FF6700'
@@ -25,4 +10,25 @@ color:
   lightness: 0.10490767005831003
   saturation: 0.5606359955854714
   rhythmicContrast: 0.0645983568392694
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.5257434493396431
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Matt Lanter
+  email: mlanter25@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/93ff6467-c008-4619-9141-705eec5c56f5.png
+name: LantersLanterns
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7743ad0d-7685-46c2-9bd0-a14c8b0d4046.png
 purpose: []
